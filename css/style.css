@@ -108,8 +108,8 @@ button :hover ul.dropdown-items
     div.Icon-Links
     {  
     align-content: center;
-    width: 100%;
-    padding-left: 24%;
+    
+    padding-left: 33%;
     
     
        
@@ -374,7 +374,7 @@ img.Link:hover
         
     div.Nav
     {
-    margin-bottom: 0px;
+    margin-bottom: 25px;
     }
 div.Video
     
@@ -390,6 +390,9 @@ ul.Nav li
          padding-top:5px;
          padding-bottom:5px;
          margin-top: 0px;
+            background-color:#7F98AB;
+            border-style:solid;
+            border-color:white;
        
              
         }
