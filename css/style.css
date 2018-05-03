@@ -23,46 +23,22 @@
 
     }
 
-    button.dropdown-button
-    {
-     background-color: inherit;
-    border: none;
-    font-family: 'Rajdhani', sans-serif;
-    font-size:18px;
-    }
-
-  
-
-     ul.dropdown-items
-    {
-     display: none;
-     position: absolute;
-     background-color: #7F98AB;
-     min-width: 160px;
-     z-index: 1;
-    }
     
-    ul.dropdown-items a
-    {
-    float:none;
-    color:black;
-    padding: 12px 16px;
-    text-decoration:none;
-    display: block;
-    text-align: left;
+
+table
+{
+
+margin: 0 auto;
+
 }
+
+
+   
     
 
-  button.dropdown-button :hover
-    {
-        background-color:#7F98AB;
-        color: white;
-    }
+    
 
-button :hover ul.dropdown-items
-    {
-       display:inline-grid;
-    }
+
     
 
    
@@ -143,7 +119,8 @@ img.Link:hover
     }
     ul.Description{
     color:black; 
-    background-color:white;}
+    background-color:white;
+    padding-left:0px;}
 
     ul.Description li {
     display:block;
